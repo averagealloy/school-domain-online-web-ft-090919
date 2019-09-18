@@ -1,5 +1,5 @@
 class School
-attr_reader :Sc
+attr_reader :School
 #def roster
  #@roster
 #end
