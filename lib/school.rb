@@ -1,4 +1,4 @@
-eclass School
+class School
 attr_reader :School, :roster
 
 def initialize(name)
@@ -6,6 +6,6 @@ def initialize(name)
 @roster = {}
 
 def add_student(name, grade)
-  if !@roster.has_key?(grad)
+  if !@roster.has_key?(grade)
   end
 end
