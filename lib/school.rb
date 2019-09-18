@@ -1,4 +1,4 @@
-class School
+eclass School
 attr_reader :School, :roster
 
 def initialize(name)
