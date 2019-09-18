@@ -17,6 +17,6 @@ def add_student(name, grade)
     @roster[grade]
   end
   def sorted = @roster.sort_by {|grade, name| grade}
-    sorted.to
+    sorted.to_h 
 
 end
