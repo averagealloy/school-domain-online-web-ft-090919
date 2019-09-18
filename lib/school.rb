@@ -21,6 +21,6 @@ def add_student(name, grade)
       sorted[grade] = name.sort
     end
     sorted
-  end  
+  end
 
 end
