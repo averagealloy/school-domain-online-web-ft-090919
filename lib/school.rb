@@ -17,6 +17,6 @@ def add_student(name, grade)
     @roster[grade]
   end
   def sorted = {}
-    @roster.each d 
+    @roster.each do \ 
 
 end
