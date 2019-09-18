@@ -6,6 +6,6 @@ def initialize(name)
 @roster = {}
 
 def add_student(name, grade)
-  if !@roster.has_key?
+  if !@roster.has_key?(grad)
   end
 end
