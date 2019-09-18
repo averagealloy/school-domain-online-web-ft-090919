@@ -8,6 +8,7 @@ def initialize(name)
 def add_student(name, grade)
   if !@roster.has_key?(grade)
     @roster[grade] = []
-    en
+  end
+  @rost
   end
 end
