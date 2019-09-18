@@ -6,6 +6,6 @@ def initialize(name)
 @roster = {}
 
 def add_student(name, grade)
-  if 
+  if !
   end
 end
