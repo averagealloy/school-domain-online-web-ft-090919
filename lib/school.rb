@@ -1,7 +1,7 @@
 class School
 attr_reader :School
 
-def initiakk
+def initiakli
 @school
 end
 
