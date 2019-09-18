@@ -4,6 +4,6 @@ attr_reader :School
 def initialize
 @school
 {}
-end
+  end
 
 end
