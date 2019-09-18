@@ -1,6 +1,6 @@
 class School
 attr_reader :School
 
-def 
+def Sch
 
 end
