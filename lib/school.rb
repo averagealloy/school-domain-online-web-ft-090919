@@ -3,6 +3,6 @@ attr_reader :School, :roster
 
 def initialize(name)
 @school = name
-@roster = {}
+@roster = {}{}
   end
 end
