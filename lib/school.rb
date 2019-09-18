@@ -18,6 +18,6 @@ def add_student(name, grade)
   end
   def sorted = {}
     @roster.each do |grade, name|
-       
+      sorted 
 
 end
